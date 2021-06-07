@@ -1,0 +1,15 @@
+.navcustom {
+  background-color: #e1ebf9;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.text {
+  color: #1e1e1e;
+}
+body {
+  background-image: url("images/bg.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
